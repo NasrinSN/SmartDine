@@ -10,6 +10,7 @@ Real-time order tracking
 Personalized food recommendations
 Restaurant dashboard for menu and order management
 Admin panel for monitoring system health and business analytics
+
 Technical Stack
 Frontend: React (Web), React Native (Mobile)
 Backend: Django (API), Spring Boot (Payment System)
